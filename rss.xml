@@ -1,0 +1,22 @@
+<rss version="2.0">
+    <channel>
+        <title>Mi Página Web</title>
+        <link>http://www.mipaginaweb.com</link>
+        <description>Canal RSS de Mi Página Web</description>
+        <language>es</language>
+
+        <item>
+            <title>Primer artículo</title>
+            <link>http://www.mipaginaweb.com/articulo1</link>
+            <description>Este es el primer artículo de mi página web.</description>
+            <pubDate>Sun, 03 Dec 2024 10:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Segundo artículo</title>
+            <link>http://www.mipaginaweb.com/articulo2</link>
+            <description>Este es otro artículo interesante para tus visitantes.</description>
+            <pubDate>Mon, 04 Dec 2024 12:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
